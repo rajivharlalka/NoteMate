@@ -3,4 +3,4 @@
 
 ## NoteMate
 
-My Mate that would keep my notes that I would to keep referring now and then
+My Mate that would keep my notes that I would like to refer now and then
