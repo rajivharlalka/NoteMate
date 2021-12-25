@@ -3,7 +3,7 @@
 
 ## NoteMate
 
-Notes that checkmates my knowledge.
+Notes that checkmate my knowledge.
 
 Written by me, for me 
 Though readers are welcome
