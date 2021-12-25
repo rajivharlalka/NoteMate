@@ -3,4 +3,7 @@
 
 ## NoteMate
 
-My Mate that would keep my notes that I would like to refer now and then
+Notes that checkmates my knowledge.
+
+Written by me, for me 
+Though readers are welcome
